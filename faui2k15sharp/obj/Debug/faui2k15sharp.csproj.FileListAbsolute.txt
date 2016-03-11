@@ -1,0 +1,9 @@
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\faui2k15sharp\bin\Debug\faui2k15sharp.pdb
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\faui2k15sharp\bin\Debug\ChatSharp.dll
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\faui2k15sharp\bin\Debug\ChatSharp.pdb
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\faui2k15sharp\bin\Debug\ChatSharp.xml
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\faui2k15sharp\obj\Debug\faui2k15sharp.csprojResolveAssemblyReference.cache
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\faui2k15sharp\obj\Debug\faui2k15sharp.pdb
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\faui2k15sharp\bin\Debug\faui2k15sharp.dll.config
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\faui2k15sharp\bin\Debug\faui2k15sharp.dll
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\faui2k15sharp\obj\Debug\faui2k15sharp.dll

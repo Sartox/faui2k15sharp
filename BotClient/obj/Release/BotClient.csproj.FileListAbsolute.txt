@@ -1,0 +1,10 @@
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\BotClient\bin\Release\BotClient.exe.config
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\BotClient\bin\Release\BotClient.exe
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\BotClient\bin\Release\BotClient.pdb
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\BotClient\bin\Release\faui2k15sharp.dll
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\BotClient\bin\Release\ChatSharp.dll
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\BotClient\bin\Release\faui2k15sharp.pdb
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\BotClient\bin\Release\ChatSharp.pdb
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\BotClient\obj\Release\BotClient.csprojResolveAssemblyReference.cache
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\BotClient\obj\Release\BotClient.exe
+D:\Projects\FAU\faui2k15sharp\faui2k15sharp\BotClient\obj\Release\BotClient.pdb
